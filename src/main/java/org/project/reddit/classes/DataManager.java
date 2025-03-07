@@ -9,9 +9,9 @@ public class DataManager
     {
         try (ObjectOutputStream outputStream = new ObjectOutputStream (new FileOutputStream ("Data")))
         {
-            outputStream.writeObject (User.getUserList ()); //save all users list in the file
+            outputStream.writeObject (User.getUserList ());
         }
-        catch (IOException e) //throw exception
+        catch (IOException e)
         {
             e.printStackTrace ();
         }
@@ -21,11 +21,10 @@ public class DataManager
     {
         try (ObjectInputStream inputStream = new ObjectInputStream (new FileInputStream ("Data")))
         {
-            //load all users list from the file
             ArrayList <User> loadedUsers = (ArrayList <User>) inputStream.readObject ();
             User.setUserList (loadedUsers);
         }
-        catch (IOException | ClassNotFoundException e) //throw exception
+        catch (IOException | ClassNotFoundException e)
         {
             e.printStackTrace ();
         }

@@ -28,7 +28,7 @@
       </Label>
       <Button layoutX="6.0" layoutY="207.0" mnemonicParsing="false" onAction="#refreshComments" prefHeight="28.0" prefWidth="28.0" text="🔄" />
       <Button fx:id="saveButton" layoutX="6.0" layoutY="143.0" mnemonicParsing="false" onAction="#savePost" prefHeight="28.0" prefWidth="28.0" text="💾" />
-      <Label fx:id="tagsText" layoutX="62.0" layoutY="150.0" prefHeight="17.0" prefWidth="571.0" text="Tags">
+      <Label fx:id="tagsText" layoutX="62.0" layoutY="145.0" prefHeight="17.0" prefWidth="571.0" text="Tags">
          <font>
             <Font size="11.0" />
          </font></Label>

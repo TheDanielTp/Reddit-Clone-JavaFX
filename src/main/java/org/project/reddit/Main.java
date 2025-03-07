@@ -3,7 +3,6 @@ package org.project.reddit;
 import javafx.stage.Stage;
 import javafx.scene.image.Image;
 import javafx.application.Application;
-import org.project.reddit.classes.DataManager;
 import org.project.reddit.classes.Subreddit;
 import org.project.reddit.classes.User;
 import javafx.fxml.FXMLLoader;
@@ -15,7 +14,6 @@ public class Main extends Application
 {
     public static void main (String[] args)
     {
-        DataManager.loadData ();
         User.signUp ("prof.danial4@gmail.com", "TheDanielTp", "Tdtp3148_P");
         User      user      = User.findUserViaUsername ("TheDanielTp");
         Subreddit subReddit = new Subreddit ("AskReddit", "Ask Us anything", user);
