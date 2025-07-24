@@ -1,11 +1,7 @@
 # Reddit Clone — JavaFX Edition
-<!-- Improved compatibility of Back to Top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-<!--
 
 <!-- PROJECT SHIELDS -->
-<!--
--->
 [![TheDanielTp][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -13,31 +9,25 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/TheDanielTp/Reddit-Clone-JavaFX">
-    <img src="/Reddit-Logo.png" alt="Logo" width="200" height="200">
+    <img src="/Logo.png" alt="Logo" width="300" height="300">
   </a>
-
   <p align="center">
     🍊 Fully featured desktop version of the social website "Reddit" developed using Java 🍊
     <br />
   </p>
 </div>
 
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary><strong>📚 Table of Contents</strong></summary>
-  - [About The Project](#about-the-project)
+  
+  - [About the Project](#about-the-project)
 
 </details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## 🎨 About The Project
