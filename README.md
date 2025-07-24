@@ -32,7 +32,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project 🎨
 
-This is an open-source **Tetris** game made using C++. This version features theming, difficulty levels, custom board size, and live leaderboard tracking. — all in a single `.cpp` file with no external dependencies.
+This project is a desktop-based **Reddit clone** built with JavaFX. It simulates the core Reddit experience in an interactive Java GUI application. This version features creating and managing accounts, creating and editing subreddits, uploading posts, sending private messages, upvoting & downvoting and adding comments.
 
 ### Built With 
 
