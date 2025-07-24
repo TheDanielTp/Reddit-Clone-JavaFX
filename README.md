@@ -139,17 +139,17 @@ Project Link: [https://github.com/TheDanielTp/Tetris-Clone](https://github.com/T
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/TheDanielTp/Tetris.svg?style=for-the-badge
-[contributors-url]: https://github.com/TheDanielTp/Tetris/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/TheDanielTp/Tetris.svg?style=for-the-badge
-[forks-url]: https://github.com/TheDanielTp/Tetris/network/members
+[contributors-shield]: https://img.shields.io/github/contributors/TheDanielTp/Reddit-Clone-JavaFX.svg?style=for-the-badge
+[contributors-url]: https://github.com/TheDanielTp/Reddit-Clone-JavaFX/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/TheDanielTp/Reddit-Clone-JavaFX.svg?style=for-the-badge
+[forks-url]: https://github.com/TheDanielTp/Reddit-Clone-JavaFX/network/members
 [java-shield]: https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white
 [java-url]: https://www.java.com/
-[stars-shield]: https://img.shields.io/github/stars/TheDanielTp/Tetris.svg?style=for-the-badge
-[stars-url]: https://github.com/TheDanielTp/Tetris/stargazers
-[issues-shield]: https://img.shields.io/github/issues/TheDanielTp/Tetris.svg?style=for-the-badge
-[issues-url]: https://github.com/TheDanielTp/Tetris/issues
-[license-shield]: https://img.shields.io/github/license/TheDanielTp/Tetris.svg?style=for-the-badge
-[license-url]: https://github.com/TheDanielTp/Tetris/blob/master/LICENSE.txt
+[stars-shield]: https://img.shields.io/github/stars/TheDanielTp/Reddit-Clone-JavaFX.svg?style=for-the-badge
+[stars-url]: https://github.com/TheDanielTp/Reddit-Clone-JavaFX/stargazers
+[issues-shield]: https://img.shields.io/github/issues/TheDanielTp/Reddit-Clone-JavaFX.svg?style=for-the-badge
+[issues-url]: https://github.com/TheDanielTp/Reddit-Clone-JavaFX/issues
+[license-shield]: https://img.shields.io/github/license/TheDanielTp/Reddit-Clone-JavaFX.svg?style=for-the-badge
+[license-url]: https://github.com/TheDanielTp/Reddit-Clone-JavaFX/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/TheDanielTp
