@@ -25,12 +25,12 @@
 <details>
   <summary><strong>📚 Table of Contents</strong></summary>
   
-  - [About the Project](#about-the-project)
+  - [About the Project](#about-the-project-)
 
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## 🎨 About The Project
+## About The Project 🎨
 
 This is an open-source **Tetris** game made using C++. This version features theming, difficulty levels, custom board size, and live leaderboard tracking. — all in a single `.cpp` file with no external dependencies.
 
