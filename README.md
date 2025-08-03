@@ -26,6 +26,12 @@
   <summary><strong>📚 Table of Contents</strong></summary>
   
   - [About the Project](#about-the-project-)
+  - [Getting Started](#getting-started-)
+  - [Features](#features-)
+  - [Future Upgrades](#future-upgrades-)
+  - [Contributing](contributing-)
+  - [License](license-)
+  - [Contact](contact-)
 
 </details>
 
@@ -69,8 +75,54 @@ To get a local copy up and running, follow these steps:
 
 <p align="right"><a href="#readme-top">Back to Top</a></p>
 
+<!-- FEATURES -->
+## Features 🛠 
+- **User management system**
+  
+    - Create accounts, login & logout and edit your profile info. Database handles everything.
+- **Subreddits**
+
+    - Create, join & manage communities. Subreddit owners can remove members, promote members to admins and edit Subreddit's info.
+- **Posts & Comments**
+
+    - Create posts in Subreddits. Users can Upvote or Downvote posts and add comments. Comments can also be upvoted or downvoted. The original posters can edit or delete their posts.
+- **Private Messages**
+
+    - Send and receive direct messagess within the app.
+ 
+<p align="right"><a href="#readme-top">Back to Top</a></p>
+
+<!-- FUTURE UPGRADES -->
+## Future Upgrades 🚀
+- Notification system
+- Media attachments (images/videos)
+- Moderation tools for subreddit admins
+- Chat or group messaging
+- Backend integration with cloud storage
+
+<p align="right"><a href="#readme-top">Back to Top</a></p>
+
+<!-- CONTRIBUTING -->
+## Contributing 🤝
+Contributions are what make the open source community such a great learning environment! If you have ideas for improvements, feel free to fork and submit a pull request.
+
+Steps to contribute:
+- Fork the repo
+- Create a feature branch (git checkout -b feature/my-feature)
+- Commit your changes (git commit -m "Add my feature")
+- Push to the branch (git push origin feature/my-feature)
+- Open a pull request
+
+<p align="right"><a href="#readme-top">Back to Top</a></p>
+
+<!-- LICENSE -->
+## License 📄
+Distributed under the MIT License. See [LICENSE](https://github.com/TheDanielTp/Reddit-Clone-JavaFX/blob/main/LICENSE) for more info.
+
+<p align="right"><a href="#readme-top">Back to Top</a></p>
+
 <!-- CONTACT -->
-## Contact Me ☎️
+## Contact ☎️
 
 My Email - [prof.danial4@gmail.com](mailto:prof.danial4@gmail.com)
 
